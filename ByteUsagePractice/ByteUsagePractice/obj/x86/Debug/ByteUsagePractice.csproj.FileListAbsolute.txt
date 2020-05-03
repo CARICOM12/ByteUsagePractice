@@ -1,0 +1,5 @@
+/home/alex/Projects/ByteUsagePractice/ByteUsagePractice/obj/x86/Debug/ByteUsagePractice.csprojAssemblyReference.cache
+/home/alex/Projects/ByteUsagePractice/ByteUsagePractice/bin/Debug/ByteUsagePractice.exe
+/home/alex/Projects/ByteUsagePractice/ByteUsagePractice/bin/Debug/ByteUsagePractice.pdb
+/home/alex/Projects/ByteUsagePractice/ByteUsagePractice/obj/x86/Debug/ByteUsagePractice.exe
+/home/alex/Projects/ByteUsagePractice/ByteUsagePractice/obj/x86/Debug/ByteUsagePractice.pdb
